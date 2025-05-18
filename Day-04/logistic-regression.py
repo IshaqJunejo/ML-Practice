@@ -45,6 +45,12 @@ model = LogisticRegression()
 # Train the model
 model.fit(x_train_scaled, y_train)
 
+# Print the model parameters
+print('Model Coefficients:')
+print(model.coef_)
+print('Model Intercept:')
+print(model.intercept_)
+
 # Make predictions
 y_pred = model.predict(x_test_scaled)
 
