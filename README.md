@@ -8,9 +8,10 @@ This repository serves as my personal hub for Machine Learning and Deep Learning
 - [x] Logistic Regression
 - [x] K-Nearest-Neighbours
 - [x] Decision Trees
-- [ ] Random Forest
+- [x] Random Forest
 - [ ] K-Means Clustering
 - [x] Neural Networks (Perceptrons)
 - [ ] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
 - [ ] Natural Language Processing
+- [ ] Computer Vision
