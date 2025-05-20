@@ -9,7 +9,7 @@ This repository serves as my personal hub for Machine Learning and Deep Learning
 - [x] K-Nearest-Neighbours
 - [x] Decision Trees
 - [x] Random Forest
-- [ ] K-Means Clustering
+- [x] K-Means Clustering
 - [x] Neural Networks (Perceptrons)
 - [ ] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
