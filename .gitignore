@@ -1,2 +1,7 @@
+# venv/ is the virtual environment directory
 venv/
-Day-07/*.csv
+
+# Datasets files that exceed 100MB (so can't be uploaded to GitHub)
+Day-07/mnist_test.csv
+Day-07/mnist_train.csv
+Day-11/creditcard.csv
