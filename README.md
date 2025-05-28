@@ -13,7 +13,7 @@ This repository serves as my personal hub for Machine Learning and Deep Learning
 - [x] Support Vector Machines
 - [x] Neural Networks (Perceptrons)
 - [x] Explanatory Data Analysis
-- [ ] Gradient Boosting Algorithms
+- [x] Gradient Boosting Algorithms
 - [ ] Hyperparameter Tuning
 - [ ] Feature Engineering
 - [ ] Convolutional Neural Networks
