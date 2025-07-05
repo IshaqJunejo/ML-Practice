@@ -16,8 +16,9 @@ This repository serves as my personal hub for Machine Learning and Deep Learning
 - [x] Gradient Boosting Algorithms
 - [ ] Hyperparameter Tuning
 - [ ] Feature Engineering
-- [x] Convolutional Neural Networks
-- [ ] Recurrent Neural Networks
+- [x] Convolutional Neural Networks (CNN)
+- [x] Recurrent Neural Networks (RNN)
+- [x] Gated Recurrent Units (GRU)
 - [ ] Long Short-term Memory (LSTM)
 - [ ] Natural Language Processing
 - [ ] Computer Vision

@@ -1,6 +1,9 @@
 # venv/ is the virtual environment directory
 venv/
 
+# Checkpoint (for model weights)
+checkpoints/
+
 # Datasets files that exceed 100MB (so can't be uploaded to GitHub)
 Day-07/mnist_test.csv
 Day-07/mnist_train.csv
