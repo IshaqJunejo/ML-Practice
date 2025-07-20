@@ -1,6 +1,4 @@
-## Day-09
-
-### Cross Validation
+## Day-09 - Cross Validation
 
 Practiced `Cross-Validation` by implementing `K-Fold Cross Validation` and `Stratified K-Fold Cross Validation` on a `breast-cancer-dataset`.
 

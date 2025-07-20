@@ -1,6 +1,4 @@
-## Day 15
-
-### Convolutional Neural Networks
+## Day 14 - Convolutional Neural Network
 
 Learned about `Convolutional Neural Network`, and implemented a `CNN` to recognize the `MNIST Digits`.
 

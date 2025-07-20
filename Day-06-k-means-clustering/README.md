@@ -1,6 +1,4 @@
-## Day-06
-
-### K-Means Clustering
+## Day-06 - K-Means Clustering
 
 Worked on Unsupervised Learning by using the `K-Means Clustering` algorithm to cluster the `iris dataset`.
 

@@ -1,8 +1,6 @@
-## Day-05
+## Day-05 - KNN, Decision Trees, Random Forest
 
-### KNN, Decision Trees, Random Forest
-
-Tried using `K-Nearest-Neighbours`, `Decision Tree`, `Random Forest` model, and `Cross Validation Score` for a Random Tree, all on the same dataset of Diabetic Patients.
+Tried using `K-Nearest-Neighbours`, `Decision Tree`, `Random Forest` model, and `Cross Validation Score` for `Random Forest`, all on the same dataset of Diabetic Patients.
 
 Also did some basic data visualization on `Matplotlib`,
 

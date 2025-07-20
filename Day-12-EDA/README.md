@@ -1,6 +1,4 @@
-## Day 12 & 13
-
-### Exploratory Data Analysis (EDA)
+## Day 12 - Exploratory Data Analysis
 
 Haven't done that much in these 2 days, just a little bit of EDA like a `Heatmap`, `Pairplot`, and a `Histplot` on 2 datasets.
 

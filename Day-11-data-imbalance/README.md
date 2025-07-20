@@ -1,6 +1,4 @@
-## Day 11
-
-### Handling Imbalanced Data
+## Day 11 - Handling Imbalance Data
 
 Implemented a `LogisticRegression` model to detect if a credit-card transaction is fraud or not fraud. Picked this dataset to practice handling data imbalance.
 
@@ -31,7 +29,7 @@ weighted avg       1.00      1.00      1.00    113923
 
 Without imbalance handling there were some `False Positives` i.e, samples that were fraud, but detected as not fraud.
 
-#### **Random Over Sampler**
+### **Random Over Sampler**
 
 Then, I tried using `RandomOverSampler` to balance the classes in the dataset (it balances by duplicating the samples of minority class).
 
@@ -57,7 +55,7 @@ weighted avg       1.00      0.98      0.99    113923
 
 ```
 
-#### **SMOTE**
+### **SMOTE**
 
 Then, I tried it with `SMOTE` (Synthetic Minority Over-sampling Technique), it is basically `Data-Augmentation` for the minority class.
 
@@ -83,7 +81,7 @@ weighted avg       1.00      0.97      0.99    113923
 
 ```
 
-#### **Class Weights**
+### **Class Weights**
 
 Also tried it with `Class Weights`, it gives more weightage to the predictions of minority class.
 

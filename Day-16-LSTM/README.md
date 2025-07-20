@@ -1,6 +1,4 @@
-## Day 17
-
-### Long Short Term Memory
+## Day 16 - Long Short Term Memory
 
 Tried implementing a `Long Short Term Memory` model for the `next character prediction` on `Tiny-Shakespeare` dataset. Just like I previously did with `RNN` and `GRU`.
 
@@ -22,7 +20,7 @@ clarence:
 glouce
 ```
 
-#### Some Takeaways
+### Some Takeaways
 - `LSTM` are better than `GRU` but maybe not that much. It took me way too much manual Hyperparameter Tuning to come to sensible results.
 - Hallucinates almost as much as `GRU` in relatively high temperature sampling, had to use **0.01 Temperature**.
 - Takes way to long to be trained properly, which is difficult on a CPU-only machine.

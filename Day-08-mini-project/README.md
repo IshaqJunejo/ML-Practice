@@ -24,7 +24,7 @@ Also plotted the `Confusion Matrix` and `Feature Importances`.
 
 Although this Mini-Project was a good reflection on my Machine-Learning Practice of few days, it also gave a question that is left unanswered.
 
-When comparing `Feature Coefficients` from `Linear Regression` with `Feature Importances` from `Random Forest Classifier` model, we can that `Linear Regression` gives the largest co-efficient to `Density` (largest when taken absolute value, as it's co-efficient is negative), but `Random Forest` gives highest Feature Importance to `Alcohol` (not `Density`).
+When comparing `Feature Coefficients` from `Linear Regression` with `Feature Importances` from `Random Forest Classifier` model, we can see that `Linear Regression` gives the largest co-efficient to `Density` (largest when taken absolute value, as it's co-efficient is negative), but `Random Forest` gives highest Feature Importance to `Alcohol` (not `Density`).
 
 GPT explained this saying that `Linear Regression` is sensitive to `multicolinearity` (high co-relation between multiple features), and in our case `Density` and `Alcohol` are highly co-related, more `Alcohol` means less `Density`. Which is possibly why `multicolinearity` may be inflating the co-efficient of `Density`, a common issue in Linear Models.
 

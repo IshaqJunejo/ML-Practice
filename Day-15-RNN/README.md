@@ -1,6 +1,4 @@
-## Day 16
-
-### Recurrent Neural Networks
+## Day 15 - Recurrent Neural Networks
 
 Learned about the theory behind `Recurrent Neural Networks`, and worked on implementation of `next character prediction` on `Tiny-Shakespeare` dataset.
 

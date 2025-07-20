@@ -1,6 +1,4 @@
-## Day 14
-
-### Gradient Boosting Algorithms
+## Day 13 - Gradient Boosting Algorithms
 
 Learned about the theory behind `Gradient Boosting` and implemented `GradientBoostingClassifier` and `GradientBoostingRegressor` from `Scikit-Learn`.
 
@@ -13,4 +11,4 @@ I had previously gotten an accuracy of almost `65.6%` with `Random Forest`, but 
 
 `Gradient Boosting` performed worse than `Logistic Regression` and `Random Forest` for classifcation, but for Regression with `Linear Regression` I had previously gotten Mean Squared Error of around `0.388301`, but with `GradientBoostingRegressor` the Mean Squared Error was `0.367384`.
 
-So it did performed well with `Regression` but well with `Classification`.
+So it did performed well with `Regression` but not well with `Classification`.

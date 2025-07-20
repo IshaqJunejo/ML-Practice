@@ -1,4 +1,4 @@
-## Day-03
+## Day-03 - Linear Regression
 
 ### Linear Regression
 

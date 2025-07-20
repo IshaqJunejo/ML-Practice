@@ -1,4 +1,4 @@
-## Day 18 - Hyperparameter Tuning
+## Day 17 - Hyperparameter Tuning
 
 This day focuses on implementing **Hyperparameter Tuning** (`GridSeachCV`, `RandomizedSearchCV`, and `Optuna`) on multiple Machine Learning algorithms (`KNN`, `Decision Tree`, `Random Forest`, and `Gradient Boosting`) using the `diabetes` dataset.
 
