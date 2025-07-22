@@ -5,7 +5,7 @@ venv/
 checkpoints/
 
 # Datasets files that exceed 100MB (so can't be uploaded to GitHub)
-Day-07/mnist_test.csv
-Day-07/mnist_train.csv
-Day-11/creditcard.csv
-Day-12-13/AmesHousing.csv
+Day-07-neural-network/mnist_test.csv
+Day-07-neural-network/mnist_train.csv
+Day-11-data-imbalance/creditcard.csv
+Day-12-EDA/AmesHousing.csv
