@@ -15,7 +15,7 @@ This is just a **learning playground**, where I implement and experiment with ML
 ### Data Analysis and Preprocessing
 - [x] Basic Data Pre-processing
 - [x] Explanatory Data Analysis
-- [ ] Feature Engineering
+- [x] Feature Engineering
 
 ### Machine Learning
 - [x] Linear Regression
@@ -29,6 +29,7 @@ This is just a **learning playground**, where I implement and experiment with ML
 - [x] Hyperparameter Tuning
 - [x] Model Evaluation
 - [x] Data Imbalance Handling
+- [ ] Pipelines
 
 ### Deep Learning
 - [x] Neural Networks (Perceptrons)
@@ -48,7 +49,7 @@ This is just a **learning playground**, where I implement and experiment with ML
 
 | Dataset | Source | Used In |
 |---------|--------|---------|
-| Titanic Dataset | [Kaggle](https://www.kaggle.com/competitions/titanic/data) | Day-02 |
+| Titanic Dataset | [Kaggle](https://www.kaggle.com/competitions/titanic/data) | Day-02, Day-18 |
 | Student Scores | [Kaggle](https://www.kaggle.com/datasets/mexwell/student-scores) | Day-03, Day-12 |
 | Breast Cancer Dataset | [Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset) | Day-04, Day-09, Day-13 |
 | Diabetes Dataset | [GitHub](https://github.com/npradaschnor/Pima-Indians-Diabetes-Dataset/blob/master/diabetes.csv) | Day-05, Day-10, Day-17 |
