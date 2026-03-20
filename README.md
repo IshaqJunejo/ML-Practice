@@ -68,6 +68,7 @@ Each `Day-XX-*` directory represents a concept/topic. Inside, you’ll find:
 - `.py` scripts implementing the concept.
 - Output plots or visualizations *(when applicable)*
 - Sample datasets *(if required)*
+- A `requirements.txt` file, to install the required dependencies.
 - A per-topic `README.md` that gives a quick summary.
 
 ## Environment
@@ -77,7 +78,7 @@ If you want to try out any implementation in this repository, you can,
   ``` bash
   git clone https://github.com/IshaqJunejo/ML-Practice.git
   ```
-- Navigate to your concerned implementation, and make sure you have installed dependencies using `pip`.
+- Navigate to your concerned implementation, and make sure you have installed dependencies using `pip install -r requirements.txt`, preferably in a virtual environment.
 - And run the code.
 
 ***Note**: Each `Day-XX-*` directory may use different Python packages. Refer to the imports in the individual scripts.*
