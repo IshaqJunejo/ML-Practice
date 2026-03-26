@@ -59,6 +59,7 @@ This is just a **learning playground**, where I implement and experiment with ML
 | Ames Housing Dataset | [Kaggle](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset) | Day-12 |
 | Credit Card Fraud Dataset | [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) | Day-11 |
 | Tiny Shakespeare | [GitHub](https://github.com/karpathy/char-rnn/blob/master/data/tinyshakespeare/input.txt) | Day-15, Day-16 |
+| Surname Nationality | [Kaggle](https://www.kaggle.com/datasets/alenic/surname-dataset-classification) | Day-20 |
 
 ---
 
